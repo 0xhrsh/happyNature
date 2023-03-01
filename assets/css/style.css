@@ -73,8 +73,8 @@ body {
     border: none;
 
     height: auto;
-    width: 200px;
-    left: calc(50% - 100px);
+    width: 250px;
+    left: calc(50% - 125px);
     margin: auto;
     display: block;
 }
